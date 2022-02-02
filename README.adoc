@@ -1,0 +1,4 @@
+= Spring Boot image:https://ci.spring.io/api/v1/teams/spring-boot/pipelines/spring-boot-3.0.x/jobs/build/badge["Build Status", link="https://ci.spring.io/teams/spring-boot/pipelines/spring-boot-3.0.x?groups=Build"]
+
+== License
+Spring Boot is Open Source software released under the https://www.apache.org/licenses/LICENSE-2.0.html[Apache 2.0 license].
